@@ -4,12 +4,12 @@ A modern, conversion-focused SaaS landing page built with React, TypeScript, and
 
 ## ✨ Key Highlights
 
-- ** Modern Design** - Clean, professional SaaS UI with smooth animations and responsive layouts
-- ** Performance** - Built with Vite for lightning-fast development and optimized production builds
-- ** Type Safety** - Full TypeScript implementation with proper interfaces and type definitions
-- ** Fully Responsive** - Seamlessly adapts to mobile, tablet, and desktop viewports
-- ** Smooth Animations** - Framer Motion powered scroll-triggered animations for enhanced UX
-- ** Component-Based** - Modular, reusable components following React best practices
+-  Modern Design - Clean, professional SaaS UI with smooth animations and responsive layouts
+-  Performance - Built with Vite for lightning-fast development and optimized production builds
+-  Type Safety - Full TypeScript implementation with proper interfaces and type definitions
+-  Fully Responsive - Seamlessly adapts to mobile, tablet, and desktop viewports
+-  Smooth Animations - Framer Motion powered scroll-triggered animations for enhanced UX
+-  Component-Based - Modular, reusable components following React best practices
 
 ## 🛠️ Tech Stack
 
