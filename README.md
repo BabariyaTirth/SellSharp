@@ -44,13 +44,6 @@ npm install
 # Start development server
 npm run dev
 
-# Build for production
-npm run build
-
-# Preview production build
-npm run preview
-```
-
 ## 📁 Project Structure
 
 ```
@@ -103,32 +96,12 @@ Sellsharp/
 
 ## 💡 Best Practices Implemented
 
-- ✅ **TypeScript Interfaces** - Strong typing for all component props and data structures
-- ✅ **Component Separation** - Each section is a self-contained, reusable component
-- ✅ **Performance Optimization** - Code splitting, lazy loading ready
-- ✅ **Accessibility** - Semantic HTML, ARIA labels, keyboard navigation
-- ✅ **SEO Ready** - Proper meta tags, semantic structure
-- ✅ **Clean Code** - Consistent naming, organized imports, readable structure
-
-## 🔧 Customization
-
-### Changing Colors
-Edit the `primary` color palette in `tailwind.config.js`:
-
-```javascript
-colors: {
-  primary: {
-    600: '#your-color',
-    // ... other shades
-  }
-}
-```
-
-### Modifying Content
-Update component files in `src/components/` - each component is self-contained and easy to modify.
-
-### Adjusting Animations
-Framer Motion props in components can be customized for different animation timings and effects.
+-  **TypeScript Interfaces** - Strong typing for all component props and data structures
+-  **Component Separation** - Each section is a self-contained, reusable component
+-  **Performance Optimization** - Code splitting, lazy loading ready
+-  **Accessibility** - Semantic HTML, ARIA labels, keyboard navigation
+-  **SEO Ready** - Proper meta tags, semantic structure
+-  **Clean Code** - Consistent naming, organized imports, readable structure
 
 ## 📊 Performance
 
@@ -146,6 +119,4 @@ Framer Motion props in components can be customized for different animation timi
 - Trust indicators and statistics
 - Mobile-optimized for on-the-go conversions
 
----
 
-**Built with ❤️ for modern SaaS products**
