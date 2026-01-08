@@ -2,7 +2,7 @@
 
 A modern, conversion-focused SaaS landing page built with React, TypeScript, and Tailwind CSS. This project demonstrates best practices in frontend development, component architecture, and user experience design.
 
-## ✨ Key Highlights
+##  Key Highlights
 
 -  Modern Design - Clean, professional SaaS UI with smooth animations and responsive layouts
 -  Performance - Built with Vite for lightning-fast development and optimized production builds
@@ -11,7 +11,7 @@ A modern, conversion-focused SaaS landing page built with React, TypeScript, and
 -  Smooth Animations - Framer Motion powered scroll-triggered animations for enhanced UX
 -  Component-Based - Modular, reusable components following React best practices
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -124,4 +124,4 @@ Sellsharp/
 - Social proof through testimonials
 - Transparent pricing with feature comparison
 - Trust indicators and statistics
-- Mobile-optimized for on-the-go conversions
+- Mobile-optimized for on-the-go conversions.
