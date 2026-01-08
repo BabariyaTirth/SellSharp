@@ -110,26 +110,6 @@ Sellsharp/
 - ✅ **SEO Ready** - Proper meta tags, semantic structure
 - ✅ **Clean Code** - Consistent naming, organized imports, readable structure
 
-## 🔧 Customization
-
-### Changing Colors
-Edit the `primary` color palette in `tailwind.config.js`:
-
-```javascript
-colors: {
-  primary: {
-    600: '#your-color',
-    // ... other shades
-  }
-}
-```
-
-### Modifying Content
-Update component files in `src/components/` - each component is self-contained and easy to modify.
-
-### Adjusting Animations
-Framer Motion props in components can be customized for different animation timings and effects.
-
 ## 📊 Performance
 
 - **Fast Initial Load** - Optimized bundle size with tree-shaking
@@ -145,7 +125,3 @@ Framer Motion props in components can be customized for different animation timi
 - Transparent pricing with feature comparison
 - Trust indicators and statistics
 - Mobile-optimized for on-the-go conversions
-
----
-
-**Built with ❤️ for modern SaaS products**
